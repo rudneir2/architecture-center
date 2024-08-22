@@ -94,10 +94,6 @@ Application Gateway is the entry point for this architecture, and the WAF featur
 
 To support highly concurrent scenarios, turn on API Management autoscaling. Autoscaling expands API Management capabilities in response to growing numbers of incoming requests. For more information, see [Automatically scale an Azure API Management instance](/azure/api-management/api-management-howto-autoscale).
 
-## Deploy this scenario
-
-This scenario is demonstrated in the Azure Quickstart gallery publication of [Application Gateway with internal API Management and Web App](/samples/azure/azure-quickstart-templates/private-webapp-with-app-gateway-and-apim/).
-
 ## Next steps
 
 Design your APIs following good [Web API design](../../../best-practices/api-design.md) guidelines and implement them using good [Web API implementation](../../../best-practices/api-implementation.md) practices.
