@@ -4,7 +4,7 @@ Microsoft offers many documents and reference architectures about IT security. F
 
 ## Architectures in this series
 
-This article is the first in a series of five articles that present a logical and organized way to understand and integrate the security solutions that are available from Microsoft Azure public cloud and from Microsoft 365 services. This first article provides an overview of the series. It briefly explains the content of the architecture and how it was built. The other articles in this series explain each part in more detail.
+This article is the first in a series of 5 articles that present a logical and organized way to understand and integrate the security solutions that are available from Microsoft Azure public cloud and from Microsoft 365 services. This first article provides an overview of the series. It briefly explains the content of the architecture and how it was built. The other articles in this series explain each part in more detail.
 
 This series explores in depth the defense that you can build with these Microsoft cloud security services:
 
